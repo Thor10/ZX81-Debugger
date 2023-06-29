@@ -21,7 +21,7 @@ The Extension is ready, and you can start to write, compile and debug your progr
 
 # Assembler
 
-The ZX81 Debugger uses the [Z80 Assembler in Typescript Library](https://github.com/andrivet/z80-assembler). For more information about the assembly language supported, [see its documentation](https://github.com/andrivet/z80-assembler/docs/assembler.md).
+The ZX81 Debugger uses the [Z80 Assembler in Typescript Library](https://github.com/andrivet/z80-assembler). For more information about the assembly language supported, [see its documentation](https://github.com/andrivet/z80-assembler/blob/master/docs/assembler.md).
 
 # Limitations
 
